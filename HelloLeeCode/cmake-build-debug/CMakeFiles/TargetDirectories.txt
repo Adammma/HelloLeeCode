@@ -1,0 +1,3 @@
+/Users/adam/CLionProjects/HelloLeeCode/cmake-build-debug/CMakeFiles/HelloLeeCode.dir
+/Users/adam/CLionProjects/HelloLeeCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adam/CLionProjects/HelloLeeCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
