@@ -39,4 +39,13 @@ public:
         return -1;
 
     }
+    bool repeatedSubstringPattern(string s) {
+        int next[s.length()];
+        getNext(next,s);
+
+        if (next[s.length()-1] != -1 &&s.length() % (s.length()-(next[s.length()-1]+1)) == 0)
+            return true;
+        return false;
+    }
+
 };

@@ -1,11 +1,14 @@
 # ninja log v5
-411	1838	1695347504535122866	HelloLeeCode	f7990d1677b5442
+4	56	1700018027408576287	HelloLeeCode	61cde5d27d6b9866
+4	520	1699878911622454678	CMakeFiles/HelloLeeCode.dir/Stack/isValid.cpp.o	cd8ae68bc781ee8c
+4	514	1699880217003817015	CMakeFiles/HelloLeeCode.dir/Stack/removeDuplicates.cpp.o	aab7539a50c8a42a
 0	409	1695347503104932540	CMakeFiles/HelloLeeCode.dir/HashTable/intersection.cpp.o	2e931fc2cafcfde5
-0	425	1695694063607836969	CMakeFiles/HelloLeeCode.dir/HashTable/isHappy.cpp.o	fe5586da09df4468
-426	1792	1695694064975784959	HelloLeeCode	dfa979fd10fd6ada
-7	392	1695694081091373379	CMakeFiles/HelloLeeCode.dir/HashTable/isHappy.cpp.o	fe5586da09df4468
-392	442	1695694081142684071	HelloLeeCode	dfa979fd10fd6ada
-6	552	1695694183408822343	CMakeFiles/HelloLeeCode.dir/HashTable/isHappy.cpp.o	fe5586da09df4468
-552	598	1695694183455902269	HelloLeeCode	dfa979fd10fd6ada
+4	206	1700018636194220969	CMakeFiles/HelloLeeCode.dir/glad/src/glad.c.o	542cec2a83ca88cb
+0	561	1699881106082722339	CMakeFiles/HelloLeeCode.dir/Stack/evalRPN.cpp.o	4fd4ae80d5496235
 6	527	1695694211947492044	CMakeFiles/HelloLeeCode.dir/HashTable/isHappy.cpp.o	fe5586da09df4468
-527	572	1695694211993815425	HelloLeeCode	dfa979fd10fd6ada
+0	395	1700134871425930830	CMakeFiles/HelloLeeCode.dir/Tree/rightSideView.cpp.o	b8c9b0f552f980d7
+397	1745	1700134872776994997	HelloLeeCode	398150906a9121cc
+4	540	1700134952240294701	CMakeFiles/HelloLeeCode.dir/Tree/rightSideView.cpp.o	b8c9b0f552f980d7
+540	584	1700134952285823300	HelloLeeCode	398150906a9121cc
+4	514	1700135130440060953	CMakeFiles/HelloLeeCode.dir/Tree/rightSideView.cpp.o	b8c9b0f552f980d7
+514	554	1700135130482133112	HelloLeeCode	398150906a9121cc
